@@ -8,6 +8,7 @@ class  Frequency
 
 		int a[]=new int[n];
 	//	int b[]=new int[n];
+	//Secong version of reposirtory
 		LinkedHashMap<Integer,Integer>map=new LinkedHashMap<Integer,Integer>();
 		
 		for(int i=0;i<n;i++)
